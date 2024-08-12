@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="checkbox" type="id" />
+    <item name="edit_message" type="id" />
+    <item name="share_message" type="id" />
+</resources>
